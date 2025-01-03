@@ -30,7 +30,7 @@ Fork the repository.
 - This project is licensed under the MIT License.
 
 ## Contact
-- For questions, contact K J Justin.
+- For questions, contact Dhanyashree.
 
 
 
